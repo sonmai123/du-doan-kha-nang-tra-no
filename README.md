@@ -6,6 +6,7 @@ Dựa vào thông tin chung và lịch sử tín dụng của khách hàng để
 
 ## Thực hiện
 Dùng mô hình CRISP-DM (Data Science Project Life Cycle) làm framework giải quyết bài toán này. Mô hình này gồm các bước sau:
+
 1. Business Understanding
     - 
 2. Data Understanding
