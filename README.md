@@ -23,7 +23,9 @@ Dùng mô hình CRISP-DM (Data Science Project Life Cycle) làm framework giải
 5. Evaluation
     - 
 6. Deployment
+    - cần kết hợp kết quả dự đoán của machine learning model vào quy trình kinh doanh như thế nào?
+    -
 7. Monitoring
-
+    - 
 
 
