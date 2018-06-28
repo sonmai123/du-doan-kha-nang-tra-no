@@ -16,25 +16,25 @@ Dùng mô hình CRISP-DM (Data Science Project Life Cycle) làm framework giải
 
 Dữ liệu được tải từ [Lending Club Public Data](https://www.lendingclub.com/info/download-data.action). Mình sẽ sử dụng dữ liệu LOAN data từ 2007-2011 vì đa phần các khoản cho vay trong thời gian này đã có kết quả (thu hồi được hay bị mất), để sử dụng cho mô hình machine learning. Mình để dữ liệu trong thư mục /data/.
 
-## 1.Business Understanding
+### 1.Business Understanding
 Đây là giai đoạn hiểu về vấn đề kinh doanh.
 
 Câu hỏi chính: Có thể dự đoán được khả năng trả nợ của khoản vay từ những dữ liệu đã có hay không?
 
-## Data Understanding
+### 2.Data Understanding
 Đây là giai đoạn hiểu về dữ liệu.
 
-## Data Preparation
+## 3.Data Preparation
 Đây là giai đoạn xử lý dữ liệu để chuẩn bị cho mô hình machine learning.
 
 Đa phần các mô hình machine learning yêu cầu dữ liệu đầu vào phải là số (integer hoặc float).
 
-## Modeling
+### 4.Modeling
 Đây là bước lựa mô hình machine learning thích hợp để mô hình hóa (modeling) dữ liệu.
 
-## Evaluation
+### 5.Evaluation
 
-## Deployment
+### 6.Deployment
 Đây là giai đoạn đưa mô hình machine learning vào sử dụng thật. 
 
 Tức là, dùng những dự đoán của mô hình để đưa ra những quyết định cho vay.
@@ -42,7 +42,7 @@ Tức là, dùng những dự đoán của mô hình để đưa ra những quy�
 Câu hỏi:
 Kết quả dự đoán của mô hình cần được kết hợp với các quy trình ra quyết định trong doanh nghiệp như thế nào?
 
-## Monitoring
+### 7.Monitoring
 Đây là giai đoạn theo dõi khả năng dự đoán của mô hình.
 
 Bạn sẽ theo dõi xem accuracy của mô hình có giảm xuống hay không. Nếu có, nghĩa là có những loại khoản vay mới mà mô hình chưa được học nên có những dự đoán không chính xác. Bạn cần có một tính chính xác tối thiểu mà qua đó bạn sẽ quyết định retrain model. 
