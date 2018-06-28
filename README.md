@@ -19,13 +19,13 @@ Dùng mô hình CRISP-DM (Data Science Project Life Cycle) làm framework giải
     - xác định feature (column) nào cần loại bỏ và giữ lại
     - chuyển tất cả các features thành số (integer hoặc float)
 4. Modeling
-    - 
+    - dùng supervised machine learning algorithms để mo hình hóa dữ liệu đã xử lý.
 5. Evaluation
-    - 
+    - đánh giá xem kết quả dự đoán của machine learning model có đạt được những metrics (thước đo) mong muốn hay không.
 6. Deployment
     - cần kết hợp kết quả dự đoán của machine learning model vào quy trình kinh doanh như thế nào?
     -
 7. Monitoring
-    - 
+    - theo dõi kết quả dự đoán thực tiễn của mô hình để có thể retrain kip thời trong trường hợp có những khoản vay mới làm giảm thước đo chuẩn của mô hình.
 
 
