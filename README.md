@@ -7,10 +7,17 @@ Dựa vào thông tin chung và lịch sử tín dụng của khách hàng để
 ## Thực hiện
 Dùng mô hình CRISP-DM (Data Science Project Life Cycle) làm framework giải quyết bài toán này. Mô hình này gồm các bước sau:
 1. Business Understanding
+    - 
 2. Data Understanding
+    - có đủ data để train mô hình machine learning hay chưa?
+    - 
 3. Data Preparation
+    - xác định feature (column) nào cần loại bỏ và giữ lại
+    - chuyển tất cả các features thành số (integer hoặc float)
 4. Modeling
+    - 
 5. Evaluation
+    - 
 6. Deployment
 7. Monitoring
 
